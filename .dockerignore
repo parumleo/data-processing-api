@@ -1,0 +1,8 @@
+# Starting file: deliberately minimal for the recorded optimization exercise.
+.git
+.venv
+venv
+__pycache__
+.pytest_cache
+.env
+*.pyc

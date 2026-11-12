@@ -1,0 +1,7 @@
+order_id,order_date,region,category,quantity,unit_price,status
+101,2026-01-01,North,Hardware,2,100,Completed
+102,2026-01-02,South,Software,1,250,Completed
+103,2026-01-03,East,Hardware,3,40,Completed
+104,2026-01-04,North,Software,5,50,Cancelled
+105,2026-01-05,East,Software,2,80,Pending
+106,2026-01-06,South,Hardware,1,0,Completed
